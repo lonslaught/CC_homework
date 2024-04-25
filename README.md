@@ -24,6 +24,8 @@
 
 Для стилизации можно использовать Bootstrap.
 
+Для удобства карта планет - двухмерное пространство XY.
+
 ## Стек
 - Django Rest Framework
 - django-templates
